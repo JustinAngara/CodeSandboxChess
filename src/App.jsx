@@ -1,5 +1,10 @@
-import { Chessboard } from "react-chessboard";
+import Gui from "./ChessUI/Gui";
 function App() {
-  return <Chessboard position={"start"} />;
+  return (
+    <div>
+      test
+      <Gui />
+    </div>
+  );
 }
 export default App;

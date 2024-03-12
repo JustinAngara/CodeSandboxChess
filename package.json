@@ -8,7 +8,10 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-chessboard": "4.4.0",
-    "chess.js": "1.0.0-beta.8"
+    "chess.js": "1.0.0-beta.8",
+    "resolutions": {
+      "styled-components": "^5"
+    }
   },
   "devDependencies": {
     "@types/react": "18.2.38",
